@@ -1,0 +1,93 @@
+body{
+margin:0 auto;
+max-width: 1180px;
+background:yellow;
+}
+
+a {
+text-decoration: none;
+color:burlywood;
+}
+
+header{
+background:green;
+padding:10px;
+}
+
+nav {
+float:right;
+padding: 30px;
+border-radius: 10px;
+background:black;
+}
+
+nav a{
+text-decoration:none;
+padding:25px;
+font-size: 20px;
+color:white;
+border-radius: 10px;
+}
+
+#menu{
+background:white;
+text-align:center;
+padding:10px;
+box-shadow:2px 2px 2px 2px black;
+}
+#menu a{
+padding:10px;
+font-size:30px;
+text-decoration:none;
+text-align:center;
+}
+#menu a:hover{
+font-weight:bold;
+}
+
+h1{
+text-align:center;
+font-size:40px;
+font-family:fantasy;
+} 
+
+footer{
+text-align:center;
+background:green;
+padding:20px;
+font-size:20px;
+}
+
+img{
+width:100px;
+height:100px; 
+margin-top:10px;
+}
+
+h4{
+margin-left:150px;
+margin-top:-20
+}
+
+h5{
+margin-left:150px;
+margin-top:-20
+}
+
+
+#ra a {
+background:blue;
+color:white;
+padding:12px;
+}
+
+#ra {
+text-align:center;
+
+margin-top: -50px;
+margin-left:-360px;
+}
+
+#ra a:hover{
+font-weight:bold;
+}
